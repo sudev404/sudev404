@@ -24,7 +24,6 @@
  🎮 **CTF Enthusiast** — TryHackMe: mr_aztro
  
  ♟️ **Hobbies:** Chess, CTF challenges, Security puzzles
-
 </div>
 
 <br/>
@@ -109,7 +108,7 @@
 
 | **Project** | **Stack** | **Highlights** |
 |:---|:---|:---|
-| **[VulnScanner]([https://github.com/sudev404/vulnscanner](https://github.com/sudev404/VulnScanner))** | Python, Flask, React, SQLite, Nmap | 4-phase vulnerability pipeline • Real-time progress • JWT auth • RBAC • Admin scheduling |
+| **[VulnScanner](https://github.com/sudev404/VulnScanner)** | Python, Flask, React, SQLite, Nmap | 4-phase vulnerability pipeline • Real-time progress • JWT auth • RBAC • Admin scheduling |
 | **Local Active Directory Lab** | Impacket, Mimikatz, Bloodhound, Kali | 7-phase domain compromise • AS-REP roasting • Kerberoasting • DCSync • Golden Ticket persistence |
 
 </div>
