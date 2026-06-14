@@ -11,29 +11,7 @@
 <div align="center">
 
 ```python
-class SudevCS:
-    def __init__(self):
-        self.name = "Sudev CS"
-        self.location = "Bengaluru, India"
-        self.degree = "B.C.A., Cybersecurity (2023–2026)"
-        self.college = "Krupanidhi Degree College"
-        
-    def stack(self):
-        return {
-            "languages": ["Python", "JavaScript", "Node.js"],
-            "frameworks": ["Flask", "React", "Vite"],
-            "offensive_security": ["Nmap", "Metasploit", "Burp Suite", "Impacket"],
-            "databases": ["SQLite", "PostgreSQL"],
-            "tools": ["Kali Linux", "Wireshark", "Mimikatz", "Bloodhound"]
-        }
-    
-    def currently_learning(self):
-        return ["Advanced Malware Analysis", "Red Team Operations", "OSCP Prep"]
-    
-    def fun_fact(self):
-        return "Built a full-stack vulnerability scanner in 1 month & love chess puzzles"
 
-me = SudevCS()
 ```
 
 </div>
