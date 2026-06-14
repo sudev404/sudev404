@@ -10,9 +10,20 @@
 
 <div align="center">
 
-```python
+### 🎯 About Me
 
-```
+ 🔒 **Cybersecurity Specialist** — Penetration Testing & Vulnerability Assessment
+ 
+ 🛠️ **VulnScanner Creator** — Built a 4-phase full-stack vulnerability assessment platform
+ 
+ 🎓 **Final-year BCA Student** @ Krupanidhi Degree College, Bengaluru North University
+   📍 **Based in** Bengaluru, India
+   
+ 🏆 **IBM Certified Cybersecurity Analyst** (Dec 2025)
+ 
+ 🎮 **CTF Enthusiast** — TryHackMe: mr_aztro
+ 
+ ♟️ **Hobbies:** Chess, CTF challenges, Security puzzles
 
 </div>
 
